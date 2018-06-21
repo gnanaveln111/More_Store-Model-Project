@@ -7,7 +7,7 @@
 <title>Flight Detail</title>
 </head>
 <body>
-<form method="post" action="AirAsia">
+<form method="post" action="AirAsia's">
 Flight Name:<input type ="text" name="flightname"/>
 Source:<input type ="text" name="source"/>
 Destination:<input type ="text" name="Destination"/>
